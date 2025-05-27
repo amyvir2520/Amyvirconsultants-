@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amyvir Consulting</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fdfdfd;
+            color: #222;
+            line-height: 1.6;
+        }
+        header {
+            text-align: center;
+            padding: 40px 20px 20px;
+        }
+        header img {
+            width: 150px;
+        }
+        h1 {
+            margin: 10px 0 5px;
+        }
+        h2 {
+            color: #333366;
+            padding-top: 20px;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333366;
+            color: white;
+        }
+        footer a {
+            color: #ffc107;
+            text-decoration: none;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #333366;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Amyvir Consulting company logo">
+        <h1>Amyvir Consulting</h1>
+        <p><em>Your Trusted Talent Partner</em></p>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>At Amyvir Consulting, we specialize in connecting businesses with exceptional talent. Our goal is to build meaningful partnerships and deliver recruitment solutions that align with your company’s vision.</p>
+            
+            <h2>Services</h2>
+            <ul>
+                <li>HR Consulting</li>
+                <li>Talent Acquisition</li>
+                <li>Executive Search</li>
+                <li>Employee Onboarding</li>
+            </ul>
+
+            <h2>Get In Touch</h2>
+            <p>Ready to grow your team? Contact us today to find the right talent.</p>
+            <a href="mailto:contact@amyvir.com" class="cta-button">Send Message</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>
+            <a href="https://www.instagram.com/amyvirconsulting">Instagram</a> |
+            <a href="https://www.linkedin.com/company/amyvirconsulting">LinkedIn</a>
+        </p>
+        <p>© 2025 Amyvir Consulting. All rights reserved.</p>
+    </footer>
+</body>
+</html>
